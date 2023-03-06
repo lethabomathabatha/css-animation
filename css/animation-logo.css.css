@@ -17,7 +17,7 @@ img {
 }
 img:hover {
   animation-name: linkedin-logo;
-  animation-duration: 10s;
+  animation-duration: 9s;
   animation-iteration-count: infinite;
   animation-play-state: running;
  
